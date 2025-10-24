@@ -1,0 +1,26 @@
+body {
+  background-color: #99ccff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #3366cc;
+}
+
+th {
+  background-color: #cc99ff;
+  color: black;
+  padding: 8px;
+}
+
+td {
+  color: white;
+  padding: 6px;
+  text-align: left;
+}

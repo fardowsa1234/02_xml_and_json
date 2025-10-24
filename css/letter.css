@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document style the letter.xml file */
+letter
+{
+    font: sans-serif;
+    margin: 2em;
+    font-size: 18px;
+    color: #900;
+    font-weight: bold;
+}
+to, address, city, body, from
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #000;
+    font-weight: normal;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/employees.xslt"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/employees.xsd">
+
+    <employee>
+        <name>John Thorpe</name>
+        <age>34</age>
+        <department>Marketing</department>
+        <language>EN</language>
+        <salary>1000</salary>
+    </employee>
+
+    <employee>
+        <name>David Blake</name>
+        <age>25</age>
+        <department>Admin</department>
+        <language>GR</language>
+        <salary>1200</salary>
+    </employee>
+
+    <employee>
+        <name>Ben Johns</name>
+        <age>28</age>
+        <department>Physical Education</department>
+        <language>TR</language>
+        <salary>800</salary>
+    </employee>
+
+    <employee>
+        <name>Susan Lopez</name>
+        <age>39</age>
+        <department>External Affairs</department>
+        <language>ES</language>
+        <salary>2800</salary>
+    </employee>
+
+    <employee>
+        <name>Conde Sergio</name>
+        <age>32</age>
+        <department>Sales</department>
+        <language>ES</language>
+        <salary>1350</salary>
+    </employee>
+
+    <employee>
+        <name>Brian John</name>
+        <age>27</age>
+        <department>Sales</department>
+        <language>EN</language>
+        <salary>1350</salary>
+    </employee>
+
+</employees>
