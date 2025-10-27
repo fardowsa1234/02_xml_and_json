@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE letter [
+<!ENTITY address "221B Baker Street, London.">
+<!ENTITY CITY "London">
+]> <!-- End of Document prolog  --> 
+
+<!-- link to an external css-->
+<?xml-stylesheet href="../css/letter.css" type="text/css"?>
+
+<!-- Document-->
+<letter>
+    <to>&quot;Tony Stark&quot;</to>
+    <address>&address;</address>
+    <city>&CITY;</city>
+    <heading>Meeting Reminder</heading>
+    <body>Don't forget our meeting at &address; in &CITY;.</body>
+</letter> 

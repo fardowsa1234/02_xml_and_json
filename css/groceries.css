@@ -1,0 +1,63 @@
+@charset "utf-8";
+/*css document to style the groceries_namespace*/
+g\:groceries
+{
+    display: block;
+    font: sans-serif;
+    font-family: 'century gothic', 'courier new', courier, monospace;
+    margin: 2em;
+    font-size: 18px;
+    color: #090;
+    font-weight: bold;
+}
+g\:item
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #000;
+    font-weight: normal;
+}
+g\:quantity
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #00F;
+    font-weight: normal;
+}
+g\:price
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #F60;
+    font-weight: normal;
+}
+
+g\:name
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #b83030;
+    font-weight: normal;
+}
+g\:category
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #a91010;
+    font-weight: normal;
+}
+
+g\:total
+{
+    font: aerial, helvetica, sans-serif;
+    margin: 2em;
+    font-size: 15px;
+    color: #0A0;
+    font-weight: normal;
+}
+/*the g\: refers to an xml element with a namespace*/

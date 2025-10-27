@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xml document to illustrate working with xml namespaces-->
+
+<?xml-stylesheet href="../css/groceries.css" type="text/css"?>
+
+<g:groceries xmlns:g="http://adse2501.co.ke/groceries" xmlns:p="http://adse2501.co.ke/pricing">
+            
+    
+        <g:item>
+            <g:name>Banana</g:name>
+            <p:unit currecy="KES">KES</p:unit>
+            <p:total></p:total>
+            <g:category>Fruit</g:category>
+            <g:quantity>6</g:quantity>
+            
+        </g:item>
+    
+        <g:item>
+            <g:name>Carrot</g:name>
+            <p:price>20</p:price>
+            <g:category>vegetable</g:category>
+            <g:quantity>10</g:quantity>
+            <g:total>200</g:total>
+        </g:item>
+    
+        <g:item>
+            <g:name>Rice</g:name>
+            <g:category>Cereal</g:category>
+            <p:price>100</p:price>
+            <g:quantity>1kg</g:quantity>
+            <g:total>100</g:total>
+        </g:item>
+</g:groceries>

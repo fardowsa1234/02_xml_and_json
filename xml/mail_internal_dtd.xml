@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mail [
+<!ELEMENT mail (to, from, subject, date, time, cc, message, bcc, signature)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT cc (#PCDATA)>
+<!ELEMENT bcc (#PCDATA)>
+<!ELEMENT signature (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+]>
+<!-- End of document prolog -->
+
+<!-- mail document-->
+<mail>
+    <to>Ayan Ahmed</to>
+    <from>Fardowsa Abdullahi</from>
+    <subject>Meeting Reminder</subject>
+    <date>2025-10-9</date>
+    <time>10:00 AM</time>
+    <cc>Manager</cc>
+    <message>Don't forget about our meeting scheduled for tomorrow at 10:00 AM.</message>
+    <bcc>HR</bcc>
+    <signature>Best regards, Fardowsa</signature>
+</mail>

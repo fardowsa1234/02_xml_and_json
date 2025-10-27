@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mobiles SYSTEM "../dtd/mobiles.dtd">
+<mobiles>
+    <mobile>
+        <company>Apple</company>
+        <model type="camera">onePlus 12</model>
+        <price>kesh:79999</price>
+        <accessories>&sk;, &ch;</accessories>
+    </mobile>
+    <mobile>
+        <company>Samsung</company>
+        <model type="camera">Samsung S23 Ultra</model>
+        <price>kesh:69999</price>
+        <accessories>&sk;</accessories>
+    </mobile>
+    <mobile>
+        <company>Google</company>
+        <model type="camera">Pixel 8 Pro</model>
+        <price>kesh:59999</price>
+        <accessories>&ch;</accessories>
+    </mobile>
+</mobiles>

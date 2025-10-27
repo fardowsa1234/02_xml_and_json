@@ -1,0 +1,41 @@
+{
+    "library": {
+        "name": "City Library",
+        "address": "123 Main St, Anytown, USA",
+        "books": [
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "email":"harperlee@gmail.com",
+            "year_published": 1960,
+            "genres": ["Fiction", "Classic"]
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "email": "george23@gmail.com",
+            "year_published": 1949,
+            "genres": ["Dystopian", "Science Fiction"]
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "email":""
+            "year_published": 1925,
+            "genres": ["Fiction", "Classic"]
+        }
+        ],
+        "members": [[], 
+        {
+            "name": "Alice Johnson",
+            "member_id": 101,
+            "membership_date": "2020-01-15"
+        },
+        {
+            "name": "Bob Smith",
+            "member_id": 102,
+            "membership_date": "2019-11-22"
+        }
+        ]
+    }
+}

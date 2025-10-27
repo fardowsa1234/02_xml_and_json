@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../xsd/employee.xsd"
+
+<?xml-stylesheet href="../css/employee.css" type="text/css"?>
+
+    <!-- employee details -->
+    <employee>
+        <name>John Doe</name>
+        <age>30</age>
+        <language>English</language>
+        <department>Engineering</department>
+        <salary>75000.00</salary>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <age>28</age>
+        <language>Spanish</language>
+        <department>Marketing</department>
+        <salary>68000.00</salary>
+    </employee>
+    <employee>
+        <name>Emily Johnson</name>
+        <age>35</age>
+        <language>French</language>
+        <department>Sales</department>
+        <salary>72000.00</salary>
+    </employee>
